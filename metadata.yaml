@@ -1,0 +1,36 @@
+_repo: Heralds-of-EmpireBeing-the-Story-of-One-Ramsay-Stanhope-Lieutenant-to-Pierre-Radisson-in-the-__18182
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Laut, Agnes C.
+    aliases:
+    - Laut, Agnes C. (Agnes Christina)
+    - Laut, Agnes Christina
+    birthdate: 1871
+    deathdate: 1936
+    gutenberg_agent_id: '7761'
+    url: http://www.gutenberg.org/2009/agents/7761
+description: ''
+gutenberg_issued: '2006-04-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18182'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Northwest, Canadian -- Fiction'
+- !lcsh 'Fur trade -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Historical fiction'
+- !lcsh 'Fur traders -- Fiction'
+- !lcsh 'Radisson, Pierre Esprit, approximately 1636-1710 -- Fiction'
+title: 'Heralds of Empire
+
+  Being the Story of One Ramsay Stanhope, Lieutenant to Pierre Radisson in the Northern
+  Fur Trade'
+url: http://www.gutenberg.org/ebooks/18182
